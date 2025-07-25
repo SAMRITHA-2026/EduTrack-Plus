@@ -1,0 +1,22 @@
+[
+  { "name": "Samritha", "attendance": "92", "assignmentsCompleted": "15", "averageGrade": "A", "studyHours": "35" },
+  { "name": "Rahul", "attendance": "88", "assignmentsCompleted": "14", "averageGrade": "B", "studyHours": "32" },
+  { "name": "Ananya", "attendance": "95", "assignmentsCompleted": "16", "averageGrade": "A+", "studyHours": "40" },
+  { "name": "Kiran", "attendance": "80", "assignmentsCompleted": "12", "averageGrade": "B", "studyHours": "28" },
+  { "name": "Divya", "attendance": "85", "assignmentsCompleted": "13", "averageGrade": "B+", "studyHours": "30" },
+  { "name": "Arjun", "attendance": "90", "assignmentsCompleted": "15", "averageGrade": "A", "studyHours": "34" },
+  { "name": "Pooja", "attendance": "78", "assignmentsCompleted": "10", "averageGrade": "C+", "studyHours": "25" },
+  { "name": "Vikram", "attendance": "94", "assignmentsCompleted": "17", "averageGrade": "A+", "studyHours": "42" },
+  { "name": "Meera", "attendance": "89", "assignmentsCompleted": "14", "averageGrade": "B+", "studyHours": "33" },
+  { "name": "Rohan", "attendance": "82", "assignmentsCompleted": "11", "averageGrade": "B", "studyHours": "29" },
+  { "name": "Sneha", "attendance": "96", "assignmentsCompleted": "18", "averageGrade": "A+", "studyHours": "45" },
+  { "name": "Ajay", "attendance": "77", "assignmentsCompleted": "9", "averageGrade": "C", "studyHours": "22" },
+  { "name": "Nisha", "attendance": "91", "assignmentsCompleted": "16", "averageGrade": "A", "studyHours": "38" },
+  { "name": "Suresh", "attendance": "84", "assignmentsCompleted": "12", "averageGrade": "B", "studyHours": "30" },
+  { "name": "Kavya", "attendance": "88", "assignmentsCompleted": "14", "averageGrade": "B+", "studyHours": "31" },
+  { "name": "Manoj", "attendance": "79", "assignmentsCompleted": "10", "averageGrade": "C+", "studyHours": "26" },
+  { "name": "Priya", "attendance": "93", "assignmentsCompleted": "15", "averageGrade": "A", "studyHours": "36" },
+  { "name": "Hari", "attendance": "81", "assignmentsCompleted": "11", "averageGrade": "B", "studyHours": "27" },
+  { "name": "Lavanya", "attendance": "86", "assignmentsCompleted": "13", "averageGrade": "B+", "studyHours": "32" },
+  { "name": "Karthik", "attendance": "90", "assignmentsCompleted": "15", "averageGrade": "A", "studyHours": "34" }
+]

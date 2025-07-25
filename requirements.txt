@@ -1,0 +1,6 @@
+npm run build
+npm run export
+firebase deploy
+firebase deploy --only hosting:edutrack-d6da1-24acf
+https://edutrack-d6da1.web.app/
+npm run dev
