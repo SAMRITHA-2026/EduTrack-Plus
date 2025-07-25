@@ -77,21 +77,3 @@ dashboard/
 └── README.md
 
 
-
-# Smart Academic Dashboard
-
-An academic performance monitoring system built using **Next.js 15**, **Firebase Firestore**, and **Tailwind CSS**.  
-This dashboard allows teachers to view and analyze multiple students’ performance data such as attendance, assignments, and grades in real-time.
-
----
-
-## Getting Started
-
-### 1. Clone Repository
-
-```bash
-git clone https://github.com/your-username/smart-academic-dashboard.git
-cd smart-academic-dashboard
-
-
-
